@@ -20,3 +20,5 @@ function afficher_panier ($panier)
 }
 afficher_panier($panier);
 
+function calcler_total_panier()
+

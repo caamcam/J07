@@ -1,11 +1,11 @@
 <?php
 $produits = array( 
-array("Produit"=>"t-shirt rouge", "Prix"=>15.50),
- array("produit"=>"t-shirt vert", "prix"=>15.50),
+array("Produit"=>"T-shirt rouge", "Prix"=>15.50),
+ array("produit"=>"T-shirt vert", "prix"=>15.50),
  array("produit"=>"t-shirt argent", "prix"=>16.50),
- array('produit' =>'short bleu','prix' => 19.99),
- array('produit' =>'short vert','prix' => 19.99),
- array('produit' =>'veste argent','prix' => 35),
+ array('produit' =>'Short bleu','prix' => 19.99),
+ array('produit' =>'Short vert','prix' => 19.99),
+ array('produit' =>'Veste argent','prix' => 35),
  ); 
 ?>
 <?php
