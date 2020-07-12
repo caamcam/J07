@@ -23,4 +23,3 @@ echo $interval->format('Il s\'est écoulé %R%d jours, %R%H heure et %R%i minute
 </p>
  
 </html>
-q
